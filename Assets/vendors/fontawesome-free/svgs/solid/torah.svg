@@ -1,0 +1,25 @@
+raded (singular) and no other ads/trackers blocked"
+  },
+  "scriptsBlocked": {
+    "message": "تم حجب النصوص",
+    "description": "Message for the scripts blocked row label"
+  },
+  "thirdPartyCookiesBlocked": {
+    "message": "تم حظر ملفات تعريف الارتباط عبر المواقع",
+    "description": "Message for the option in the cookies select field to block all 3rd party cookies"
+  },
+  "allCookiesBlocked": {
+    "message": "تم حجب ملفات تعريف الارتباط",
+    "description": "Message for the option in the cookies select field to block all cookies"
+  },
+  "allCookiesAllowed": {
+    "message": "تم السماح بجميع ملفات تعريف الارتباط",
+    "description": "Message for the option in the cookies select field to allow all cookies"
+  },
+  "readOnlyFingerprinting": {
+    "message": "تم حظر البصمات",
+    "description": "Message for the option in the fingerprinting field in read only view"
+  },
+  "standardFingerprinting": {
+    "message": "حظر بصمات الأصابع (قياسي)",
+    "description": "Message for the 

@@ -1,0 +1,7 @@
+|hola.com
+@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=aristeguinoticias.com
+@@||imasdk.googleapis.com/js/sdkloader/$script,domain=mundoprimaria.com|vodgc.net
+! Anti-Adblock
+@@/comun/js/2014/adfr*.js$script,~third-party,domain=diariosur.es|diariovasco.com|elcomercio.es|elcorreo.com|eldiariomontanes.es|elnortedecastilla.es|hoy.es|ideal.es|larioja.com|lasprovincias.es|leonoticias.com
+@@/elementosWeb/js/ads.js$script,~third-party,domain=diaridegirona.cat|diariodeibiza.es|diariodemallorca.es|diarioinformacion.com|emporda.info|farodevigo.es|laopinion.es|laopinioncoruna.es|laopiniondemalaga.es|laopiniondemurcia.es|laopiniondezamora.es|laprovincia.es|levante-emv.com|mallorcazeitung.es|regio7.cat
+@@/servicios/ads

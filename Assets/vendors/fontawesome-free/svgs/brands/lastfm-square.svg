@@ -1,0 +1,6 @@
+torage with status 2
+#6(I)[2024-08-02 20:53:53,571]{00000B40}<NvcPluginLoadHel> Secure loading C:\Windows\System32\DriverStore\FileRepository\nvmd.inf_amd64_cc1a5d7d67a7b51d\Display.NvContainer\plugins\Session/nvxdsyncplugin.dll - 8.17.14.7141 at 00007FFB25D30000 took 31245 microseconds
+#7(I)[2024-08-02 20:53:53,571]{00000B40}<NvcPluginManager> Loaded C:\Windows\System32\DriverStore\FileRepository\nvmd.inf_amd64_cc1a5d7d67a7b51d\Display.NvContainer\plugins\Session/nvxdsyncplugin.dll
+#8(I)[2024-08-02 20:53:53,571]{00000B40}<NvcPluginManager> Loaded mandatory plugin NvXDSyncPlugin, version 1
+#9(I)[2024-08-02 20:53:53,571]{00000B40}<NvcPluginManager> Loading C:\Windows\System32\DriverStore\FileRepository\nvmd.inf_amd64_cc1a5d7d67a7b51d\Display.NvContainer\plugins\Session/wksServicePlugin.dll
+#0(W)[2024-08-02 20:53:53,571]{00000B40}<NvcJsonFileStora> Failed to load JSON from C:\Windows\System32\DriverSt

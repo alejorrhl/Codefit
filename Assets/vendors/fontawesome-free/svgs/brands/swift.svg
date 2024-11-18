@@ -1,0 +1,10 @@
+Application into Software\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Edge
+[2716:7448:0520/181144.756:459406:VERBOSE1:set_reg_value_work_item.cc(199)] Successfully wrote value C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,0 into Software\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Edge
+[2716:7448:0520/181144.756:459406:VERBOSE1:delete_reg_value_work_item.cc(43)] (delete value) Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Edge or Value: NoModify does not exist.
+[2716:7448:0520/181144.756:459406:VERBOSE1:set_reg_value_work_item.cc(203)] Successfully wrote into Software\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Edge
+[2716:7448:0520/181144.756:459406:VERBOSE1:set_reg_value_work_item.cc(203)] Successfully wrote into Software\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Edge
+[2716:7448:0520/181144.756:459406:VERBOSE1:set_reg_value_work_item.cc(199)] Successfully wrote value Microsoft Corporation into Software\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Edge
+[2716:7448:0520/181144.756:459406:VERBOSE1:set_reg_value_work_item.cc(199)] Successfully wrote value 125.0.2535.51 into Software\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Edge
+[2716:7448:0520/181144.756:459406:VERBOSE1:set_reg_value_work_item.cc(199)] Successfully wrote value 125.0.2535.51 into Software\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Edge
+[2716:7448:0520/181144.756:459406:VERBOSE1:set_reg_value_work_item.cc(199)] Successfully wrote value 20240520 into Software\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Edge
+[2716:7448:0520/181144.756:459406:VERBOSE1:set_reg_value_work_item.cc(203)] Successfully wrote into Software\Microsoft\Windows\C

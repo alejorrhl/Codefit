@@ -1,0 +1,12 @@
+5781:VERBOSE1:setup_singleton.cc(157)] SetupSingleton exit_event_mutex acquire begin (5000)
+[7792:8648:0304/082622.131:725781:VERBOSE1:setup_singleton.cc(166)] SetupSingleton exit_event_mutex acquire success
+[7792:8648:0304/082622.131:725781:VERBOSE1:setup_singleton.cc(171)] SetupSingleton exit_event_mutex signal
+[7792:8648:0304/082622.131:725781:VERBOSE1:setup_singleton.cc(175)] SetupSingleton setup_mutex acquire begin (5000)
+[2316:8844:0304/082622.131:725781:VERBOSE1:setup_singleton.cc(347)] CoreAndProductSetupSingleton WaitForInterrupt signaled
+[2316:8844:0304/082622.131:725781:VERBOSE1:setup_main.cc(799)] Exiting --delete-old-versions process because another process tries to acquire the SetupSingleton.
+[2316:8844:0304/082622.131:725781:VERBOSE1:install_util.cc(274)] Existing version found: 122.0.2365.66
+[2316:8844:0304/082622.131:725781:VERBOSE1:setup_main.cc(3154)] NonInstall operation completed. Exit code: 61
+[7792:8648:0304/082622.131:725781:VERBOSE1:setup_singleton.cc(184)] SetupSingleton setup_mutex acquire success
+[7792:8648:0304/082622.131:725781:VERBOSE1:setup_singleton.cc(186)] SetupSingleton exit_event_mutex reset
+[7792:8648:0304/082622.131:725781:VERBOSE1:setup_singleton.cc(67)] SetupSingleton::Acquire entry for 0
+[7792:8648:0304/082622.131:725781:VERBOSE1:setup_sing
